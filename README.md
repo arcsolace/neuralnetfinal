@@ -1,2 +1,3 @@
-# neuralnetfinal
-for hosting datasets and code
+# About
+This repository hosts some datasets, and that's it.
+Thanks.
